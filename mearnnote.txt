@@ -1,0 +1,5 @@
+grid:it also used to display eleent in row and columns where user can fix column width
+         [parent inside]
+         :grid container :to display as a grid
+         grid -template-colums/row:used to set the width of column/row
+         grap
